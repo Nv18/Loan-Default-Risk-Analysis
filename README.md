@@ -119,23 +119,23 @@ The dashboard tracks:
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-## 🏦 Loan Portfolio Overview
+### 🏦 Loan Portfolio Overview
 
-![Overview](screenshots/Loan Default & Overview.png) 
-
----
-
-## 👥 Borrower Demographics
-
-![Demographics](screenshots/Applicant Demographics & Financial Profile.png)
+![Loan Portfolio Overview](screenshots/loan-default-overview.png)
 
 ---
 
-## 📉 Financial Risk Metrics
+### 👥 Borrower Demographics
 
-![Financial Risk](screenshots/Financial Risk Metrics.png
+![Borrower Demographics](screenshots/borrower-demographics.png)
+
+---
+
+### 📈 Financial Risk Metrics
+
+![Financial Risk Metrics](screenshots/financial-risk-metrics.png)
 
 ---
 
